@@ -1,0 +1,22 @@
+{
+  "name": "anyar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferinoga/anyar.git"
+  },
+  "keywords": [
+    "restapi"
+  ],
+  "author": "ferino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferinoga/anyar/issues"
+  },
+  "homepage": "https://github.com/ferinoga/anyar#readme"
+}
